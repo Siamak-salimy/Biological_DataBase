@@ -6,7 +6,7 @@ Biological databases serve several purposes:</br>
 
 1. Data Storage: They store biological information and data, making it easily accessible to researchers, scientists, and the broader scientific community.</br>
 
-2. Data Retrieval: Researchers can query these databases to retrieve specific information or datasets for their studies and analyses.
+2. Data Retrieval: Researchers can query these databases to retrieve specific information or datasets for their studies and analyses.</br>
 
 3. Data Integration: Some databases integrate data from various sources, allowing researchers to analyze multiple types of biological data simultaneously.
 
