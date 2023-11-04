@@ -8,7 +8,7 @@ Biological databases serve several purposes:</br>
 
 2. Data Retrieval: Researchers can query these databases to retrieve specific information or datasets for their studies and analyses.</br>
 
-3. Data Integration: Some databases integrate data from various sources, allowing researchers to analyze multiple types of biological data simultaneously.
+3. Data Integration: Some databases integrate data from various sources, allowing researchers to analyze multiple types of biological data simultaneously.</br>
 
 4. Data Analysis: Many databases provide tools and software interfaces for data analysis, visualization, and interpretation.
 
