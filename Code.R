@@ -6,7 +6,7 @@ library(sesameData)
 
 
 # get a list of projects
-gdc_projects <- getGDCprojects()
+gdc_projects <- getGDCprojects()  # Mesothelioma Study - TCGA
 getProjectSummary('TCGA-MESO')
 
 # Build Query
