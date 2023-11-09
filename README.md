@@ -10,9 +10,9 @@ Biological databases serve several purposes:</br>
 
 3. Data Integration: Some databases integrate data from various sources, allowing researchers to analyze multiple types of biological data simultaneously.</br>
 
-4. Data Analysis: Many databases provide tools and software interfaces for data analysis, visualization, and interpretation.
+4. Data Analysis: Many databases provide tools and software interfaces for data analysis, visualization, and interpretation.</br>
 
-5. Reference Resources: They serve as a reference for known biological entities, including genes, proteins, and pathways, helping researchers identify and study specific elements in their research.
+5. Reference Resources: They serve as a reference for known biological entities, including genes, proteins, and pathways, helping researchers identify and study specific elements in their research
 
 Examples of well-known biological databases include GenBank, UniProt, the National Center for Biotechnology Information (NCBI), the Protein Data Bank (PDB), and many more, each specializing in different types of biological data. These databases play a crucial role in advancing biological research and bioinformatics by facilitating data sharing, collaboration, and exploration in the field of life sciences.
 
