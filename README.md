@@ -1,4 +1,5 @@
-# Biological_DataBase
+# Biological_DataBase <img alt="R" src="https://img.shields.io/badge/R-R--Programming-brightgreen" height="25px"/>
+
 What is biological data base ? </br>
 A biological database, often referred to as a bioinformatics database, is a structured collection of biological data and information related to various aspects of biology, genetics, genomics, and other life sciences. These databases store, manage, and provide access to a wide range of biological data, such as DNA and protein sequences, gene expression profiles, structural data, metabolic pathways, and more.</br>
 
