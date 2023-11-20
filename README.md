@@ -15,5 +15,5 @@ Biological databases serve several purposes:</br>
 
 5. Reference Resources:</br> They serve as a reference for known biological entities, including genes, proteins, and pathways, helping researchers identify and study specific elements in their research
 
-Examples of well-known biological databases include GenBank, UniProt, the National Center for Biotechnology Information (NCBI), the Protein Data Bank (PDB), and many more, each specializing in different types of biological data. These databases play a crucial role in advancing biological research and bioinformatics by facilitating data sharing, collaboration, and exploration in the field of life sciences..</br>
+Examples of well-known biological databases include GenBank, UniProt, the National Center for Biotechnology Information (NCBI), the Protein Data Bank (PDB), and many more, each specializing in different types of biological data.</br> These databases play a crucial role in advancing biological research and bioinformatics by facilitating data sharing, collaboration, and exploration in the field of life sciences..</br>
 
